@@ -13,4 +13,7 @@ Includes:
 10. zeller: takes in a date, returns the day of the week
 11. dryrome: same function as 'num2rome' programmed more efficiently 
 12. equals: takes in two arrays, returns an equivalence statement
-13. distinct:
+13. distinct: takes in string vector and returns number of distinct words
+14. bug: class programming exercise; returns position of bug class
+15. moth: class programming exercise ; returns position of moth class
+16. moth main: test cases for moth exercise
